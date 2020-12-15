@@ -10,7 +10,6 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>color</module>
         <module>user</module>
     </modules>
 
